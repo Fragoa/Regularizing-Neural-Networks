@@ -62,15 +62,6 @@ This combination achieved the highest test accuracy with minimal overfitting.
 
 ---
 
-## 📁 Files & Structure
-
-- `model_training.py` — Contains training loops and architecture definitions.
-- `dropout_experiments.py` — Code for evaluating dropout performance.
-- `plots/` — Accuracy and loss graphs across epochs for all models.
-- `results.csv` — Collected metrics for all configurations.
-
----
-
 ## 🔧 Dependencies
 
 - TensorFlow / Keras
